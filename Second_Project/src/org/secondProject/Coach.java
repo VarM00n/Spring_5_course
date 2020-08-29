@@ -1,0 +1,9 @@
+package org.secondProject;
+
+public interface Coach {
+
+    public String getDailyWorkout();
+
+    public String getDailyFortune();
+
+}
